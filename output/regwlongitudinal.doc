@@ -1,0 +1,26 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3744\clbrdrt\brdrs\cellx5472
+\ql \cell\qc (1)\cell\qc (2)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3744\cellx5472
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5472
+\ql VARIABLES\cell\qc ingresos\cell\qc ingresos\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3744\cellx5472
+\ql \cell\qc \cell\qc \cell\row
+\ql P6040\cell\qc 54,970***\cell\qc 54,970***\cell\row
+\ql \cell\qc (5,025)\cell\qc (5,025)\cell\row
+\ql edadsq\cell\qc -594.0***\cell\qc -594.0***\cell\row
+\ql \cell\qc (59.75)\cell\qc (59.75)\cell\row
+\ql year\cell\qc -345,105***\cell\qc \cell\row
+\ql \cell\qc (67,668)\cell\qc \cell\row
+\ql 2011.year\cell\qc \cell\qc -345,105***\cell\row
+\ql \cell\qc \cell\qc (67,668)\cell\row
+\ql Constant\cell\qc 6.933e+08***\cell\qc -345,850***\cell\row
+\ql \cell\qc (1.360e+08)\cell\qc (98,736)\cell\row
+\ql \cell\qc \cell\qc \cell\row
+\ql Observations\cell\qc 13,857\cell\qc 13,857\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3744\clbrdrb\brdrs\cellx5472
+\ql R-squared\cell\qc 0.013\cell\qc 0.013\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
